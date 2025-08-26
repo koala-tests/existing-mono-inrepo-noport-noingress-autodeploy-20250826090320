@@ -1,0 +1,10 @@
+{
+  "services": [
+    {
+      "name": "existing-mono-inrepo-noport-noingress-autodeploy-20250826090320",
+      "path": "services/existing-mono-inrepo-noport-noingress-autodeploy-20250826090320",
+      "deploymentRepo": "",
+      "deploymentFolderPath": ""
+    }
+  ]
+}
